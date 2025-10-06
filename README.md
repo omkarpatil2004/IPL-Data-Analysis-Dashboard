@@ -8,7 +8,7 @@ The dashboard helps cricket enthusiasts, analysts, and decision-makers uncover h
 
 ### 📸 Dashboard Preview
 
-![IPL Dashboard Preview](IPL Dashboard.png)
+![IPL Dashboard Preview](IPL_Dashboard.png)
 
 ---
 
@@ -35,7 +35,7 @@ The main goal of this project is to **analyze IPL data** using Power BI and deri
 │   ├── matches.csv
 │   ├── deliveries.csv
 │   └── players.csv
-└── 📸 IPL Dasboard.png            # Dashboard Image
+└── 📸 IPL_Dasboard.png            # Dashboard Image
 ```
 
 ---
