@@ -8,7 +8,7 @@ The dashboard helps cricket enthusiasts, analysts, and decision-makers uncover h
 
 ### 📸 Dashboard Preview
 
-![IPL Dashboard Preview](IPL.png)
+![IPL Dashboard Preview](IPL Dashboard.png)
 
 ---
 
