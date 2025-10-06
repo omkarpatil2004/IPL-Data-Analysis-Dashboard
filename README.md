@@ -10,6 +10,7 @@ The dashboard helps cricket enthusiasts, analysts, and decision-makers uncover h
 
 ![IPL Dashboard Preview](IPL_Dashboard.png)
 
+
 ---
 
 ### 🎯 Objective
